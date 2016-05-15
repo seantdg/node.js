@@ -1,4 +1,4 @@
-# Example travis-ci.org node.js project
+# Example travis-ci.org node.js project for Sean
 
 This is an example node.js project that uses [vows](http://vowsjs.org) and
 travis-ci.org for continuous integration.
@@ -35,3 +35,4 @@ If you have any questions, we are in `#travis` on irc.freenode.net, on Twitter [
 Copyright (C) 2012 Travis CI Development Team
 
 Distributed under the MIT License, the same as Node.js.
+
